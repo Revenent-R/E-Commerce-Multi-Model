@@ -1,0 +1,240 @@
+{
+ "repo": "McAuley-Lab/Amazon-Reviews-2023",
+ "base_urls": {
+  "files": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main",
+  "api": "https://huggingface.co/api/datasets/McAuley-Lab/Amazon-Reviews-2023"
+ },
+ "top_level_dirs": [
+  "benchmark",
+  "raw",
+  "raw_meta_All_Beauty",
+  "raw_meta_Arts_Crafts_and_Sewing",
+  "raw_meta_Cell_Phones_and_Accessories",
+  "raw_meta_Electronics",
+  "raw_meta_Gift_Cards",
+  "raw_meta_Handmade_Products",
+  "raw_meta_Industrial_and_Scientific",
+  "raw_meta_Musical_Instruments",
+  "raw_meta_Toys_and_Games"
+ ],
+ "top_level_files": [
+  ".gitattributes",
+  "Amazon-Reviews-2023.py",
+  "README.md",
+  "all_categories.txt",
+  "asin2category.json"
+ ],
+ "raw_subdirs": [
+  "meta_categories",
+  "review_categories"
+ ],
+ "num_categories": 34,
+ "categories": [
+  "All_Beauty",
+  "Amazon_Fashion",
+  "Appliances",
+  "Arts_Crafts_and_Sewing",
+  "Automotive",
+  "Baby_Products",
+  "Beauty_and_Personal_Care",
+  "Books",
+  "CDs_and_Vinyl",
+  "Cell_Phones_and_Accessories",
+  "Clothing_Shoes_and_Jewelry",
+  "Digital_Music",
+  "Electronics",
+  "Gift_Cards",
+  "Grocery_and_Gourmet_Food",
+  "Handmade_Products",
+  "Health_and_Household",
+  "Health_and_Personal_Care",
+  "Home_and_Kitchen",
+  "Industrial_and_Scientific",
+  "Kindle_Store",
+  "Magazine_Subscriptions",
+  "Movies_and_TV",
+  "Musical_Instruments",
+  "Office_Products",
+  "Patio_Lawn_and_Garden",
+  "Pet_Supplies",
+  "Software",
+  "Sports_and_Outdoors",
+  "Subscription_Boxes",
+  "Tools_and_Home_Improvement",
+  "Toys_and_Games",
+  "Unknown",
+  "Video_Games"
+ ],
+ "review_file_sizes": {
+  "All_Beauty.jsonl": 326611506,
+  "Amazon_Fashion.jsonl": 1051324731,
+  "Appliances.jsonl": 929451412,
+  "Arts_Crafts_and_Sewing.jsonl": 3945063799,
+  "Automotive.jsonl": 8727689027,
+  "Baby_Products.jsonl": 2947785967,
+  "Beauty_and_Personal_Care.jsonl": 11021458876,
+  "Books.jsonl": 20121186727,
+  "CDs_and_Vinyl.jsonl": 3287195043,
+  "Cell_Phones_and_Accessories.jsonl": 9342568048,
+  "Clothing_Shoes_and_Jewelry.jsonl": 27810080533,
+  "Digital_Music.jsonl": 78823304,
+  "Electronics.jsonl": 22616233652,
+  "Gift_Cards.jsonl": 50231035,
+  "Grocery_and_Gourmet_Food.jsonl": 5973991903,
+  "Handmade_Products.jsonl": 289025980,
+  "Health_and_Household.jsonl": 11395356745,
+  "Health_and_Personal_Care.jsonl": 226990293,
+  "Home_and_Kitchen.jsonl": 31408889188,
+  "Industrial_and_Scientific.jsonl": 2347015351,
+  "Kindle_Store.jsonl": 15800555546,
+  "Magazine_Subscriptions.jsonl": 33297013,
+  "Movies_and_TV.jsonl": 8391445499,
+  "Musical_Instruments.jsonl": 1557845107,
+  "Office_Products.jsonl": 5776792834,
+  "Patio_Lawn_and_Garden.jsonl": 7748207348,
+  "Pet_Supplies.jsonl": 8350775233,
+  "Software.jsonl": 1869151448,
+  "Sports_and_Outdoors.jsonl": 9256856041,
+  "Subscription_Boxes.jsonl": 8953020,
+  "Tools_and_Home_Improvement.jsonl": 12779111772,
+  "Toys_and_Games.jsonl": 7316094780,
+  "Unknown.jsonl": 29933791334,
+  "Video_Games.jsonl": 2682948518
+ },
+ "meta_file_sizes": {
+  "meta_All_Beauty.jsonl": 212990142,
+  "meta_Amazon_Fashion.jsonl": 1422365805,
+  "meta_Appliances.jsonl": 285298475,
+  "meta_Arts_Crafts_and_Sewing.jsonl": 2170215242,
+  "meta_Automotive.jsonl": 5345616548,
+  "meta_Baby_Products.jsonl": 691003271,
+  "meta_Beauty_and_Personal_Care.jsonl": 2835194976,
+  "meta_Books.jsonl": 14697581022,
+  "meta_CDs_and_Vinyl.jsonl": 948861684,
+  "meta_Cell_Phones_and_Accessories.jsonl": 4015159840,
+  "meta_Clothing_Shoes_and_Jewelry.jsonl": 17960532903,
+  "meta_Digital_Music.jsonl": 67097002,
+  "meta_Electronics.jsonl": 5246144134,
+  "meta_Gift_Cards.jsonl": 2038189,
+  "meta_Grocery_and_Gourmet_Food.jsonl": 1382105675,
+  "meta_Handmade_Products.jsonl": 399261431,
+  "meta_Health_and_Household.jsonl": 2468505069,
+  "meta_Health_and_Personal_Care.jsonl": 118005874,
+  "meta_Home_and_Kitchen.jsonl": 11788767944,
+  "meta_Industrial_and_Scientific.jsonl": 1130006344,
+  "meta_Kindle_Store.jsonl": 6865237738,
+  "meta_Magazine_Subscriptions.jsonl": 4096541,
+  "meta_Movies_and_TV.jsonl": 1285744674,
+  "meta_Musical_Instruments.jsonl": 631877970,
+  "meta_Office_Products.jsonl": 2146468843,
+  "meta_Patio_Lawn_and_Garden.jsonl": 2714096874,
+  "meta_Pet_Supplies.jsonl": 1571293235,
+  "meta_Software.jsonl": 256220771,
+  "meta_Sports_and_Outdoors.jsonl": 4132263769,
+  "meta_Subscription_Boxes.jsonl": 1399864,
+  "meta_Tools_and_Home_Improvement.jsonl": 4850689793,
+  "meta_Toys_and_Games.jsonl": 2637909430,
+  "meta_Unknown.jsonl": 674824926,
+  "meta_Video_Games.jsonl": 437375785
+ },
+ "range_requests": {
+  "content_range_on_1byte_probe": null,
+  "accept_ranges": null,
+  "content_encoding": "none",
+  "mid_file_probe": {
+   "status": "unclear",
+   "bytes": 2048
+  }
+ },
+ "downloaded_bytes_total": 3074048,
+ "storage_snapshot": {
+  "counters": {
+   "downloaded_bytes": 3074048,
+   "allocated_bytes": 0,
+   "events": [
+    {
+     "note": "download range Health_and_Personal_Care.jsonl @ 0",
+     "d_bytes": 512000,
+     "d_alloc": 0
+    },
+    {
+     "note": "download range meta_Health_and_Personal_Care.jsonl @ 0",
+     "d_bytes": 512000,
+     "d_alloc": 0
+    },
+    {
+     "note": "download probe schema Health_and_Personal_Care",
+     "d_bytes": 0,
+     "d_alloc": 0
+    },
+    {
+     "note": "download range All_Beauty.jsonl @ 0",
+     "d_bytes": 512000,
+     "d_alloc": 0
+    },
+    {
+     "note": "download range meta_All_Beauty.jsonl @ 0",
+     "d_bytes": 512000,
+     "d_alloc": 0
+    },
+    {
+     "note": "download probe schema All_Beauty",
+     "d_bytes": 0,
+     "d_alloc": 0
+    },
+    {
+     "note": "download range Digital_Music.jsonl @ 0",
+     "d_bytes": 512000,
+     "d_alloc": 0
+    },
+    {
+     "note": "download range meta_Digital_Music.jsonl @ 0",
+     "d_bytes": 512000,
+     "d_alloc": 0
+    },
+    {
+     "note": "download probe schema Digital_Music",
+     "d_bytes": 0,
+     "d_alloc": 0
+    },
+    {
+     "note": "download range Health_and_Personal_Care.jsonl @ 1000000",
+     "d_bytes": 2048,
+     "d_alloc": 0
+    }
+   ]
+  },
+  "on_disk_bytes": 7412,
+  "download_budget": 4831838208,
+  "total_budget": 4831838208
+ },
+ "budget_file": ".freebuff\\dataset_budget.json",
+ "storage_implications": {
+  "raw_review_files_bytes": "275.40 GB (34 categories) - do NOT download fully",
+  "raw_meta_files_bytes": "101.40 GB (34 categories) - do NOT download fully",
+  "smallest_review_files": [
+   [
+    "Subscription_Boxes.jsonl",
+    8953020
+   ],
+   [
+    "Magazine_Subscriptions.jsonl",
+    33297013
+   ],
+   [
+    "Gift_Cards.jsonl",
+    50231035
+   ],
+   [
+    "Digital_Music.jsonl",
+    78823304
+   ],
+   [
+    "Health_and_Personal_Care.jsonl",
+    226990293
+   ]
+  ],
+  "asin2category_json": "? bytes - 1.24 GB, avoid",
+  "sampling_plan": "HTTP Range streaming (no full-file download); bounded 10 MB per-category scan buffers"
+ }
+}

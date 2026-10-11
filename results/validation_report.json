@@ -1,0 +1,95 @@
+{
+ "all_pass": true,
+ "n_fail": 0,
+ "checks": {
+  "exists_readable:ecommerce_sample.parquet": true,
+  "exists_readable:ecommerce_sample.csv": true,
+  "exists_readable:dataset_audit.json": true,
+  "exists_readable:sampling_manifest.json": true,
+  "parquet_reopens": true,
+  "csv_reopens": true,
+  "required_columns_present": true,
+  "multiple_categories": true,
+  "prices_valid": "True",
+  "sentiment_labels_valid": true,
+  "all_products_have_category": "True",
+  "all_records_have_review_text": "True",
+  "all_records_have_rating": "True",
+  "all_records_have_price": "True",
+  "distributions_computed": true,
+  "product_id_available_for_grouped_split": true,
+  "leakage_documented": true,
+  "download_under_5GB_hard_ceiling": true,
+  "on_disk_under_5GB": true
+ },
+ "n_records": 3383,
+ "columns": [
+  "product_id",
+  "product_title",
+  "product_description",
+  "category",
+  "price",
+  "review_text",
+  "rating",
+  "sentiment_label",
+  "source_category",
+  "review_user_id",
+  "review_timestamp",
+  "review_verified_purchase",
+  "review_helpful_vote"
+ ],
+ "target_distributions": {
+  "category": {
+   "Health & Personal Care": 855,
+   "Tools & Home Improvement": 748,
+   "All Beauty": 614,
+   "Amazon Home": 508,
+   "Appliances": 501,
+   "Industrial & Scientific": 102,
+   "Premium Beauty": 23,
+   "Automotive": 13,
+   "Grocery": 9,
+   "AMAZON FASHION": 4,
+   "All Electronics": 2,
+   "Musical Instruments": 1,
+   "Toys & Games": 1,
+   "Baby": 1,
+   "Sports & Outdoors": 1
+  },
+  "sentiment": {
+   "positive": 2706,
+   "negative": 502,
+   "neutral": 175
+  },
+  "rating": {
+   "1.0": 383,
+   "2.0": 119,
+   "3.0": 175,
+   "4.0": 304,
+   "5.0": 2402
+  },
+  "n_records": 3383,
+  "n_products": 2361,
+  "n_categories": 15
+ },
+ "price_summary": {
+  "count": 3383.0,
+  "mean": 47.057250960685785,
+  "std": 157.65400777789029,
+  "min": 1.2,
+  "25%": 12.0,
+  "50%": 19.99,
+  "75%": 35.99,
+  "max": 6399.0
+ },
+ "leakage": {
+  "rating_in_input_features": false,
+  "price_in_input_features_for_price_tier": false,
+  "note": "rating & price are target-deriving columns only; the modeling notebook must drop rating and price from feature matrices and must fit price-tier thresholds and vectorizers on the training split only"
+ },
+ "storage": {
+  "lifetime_downloaded_bytes": 5115124809,
+  "on_disk_dataset_related_bytes": 142371903,
+  "hard_ceiling_bytes": 5368709120
+ }
+}

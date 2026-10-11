@@ -1,0 +1,10 @@
+.freebuff
+.hf_cache
+./medium
+# Large datasets and trained models
+data/models/
+data/raw/
+
+# Python cache files
+__pycache__/
+*.py[cod]

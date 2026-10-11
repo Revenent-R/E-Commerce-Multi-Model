@@ -1,0 +1,144 @@
+{
+ "shape": [
+  3383,
+  14
+ ],
+ "schema": {
+  "product_id": "object",
+  "product_title": "object",
+  "product_description": "object",
+  "category": "object",
+  "price": "float64",
+  "review_text": "object",
+  "rating": "float64",
+  "sentiment_label": "object",
+  "source_category": "object",
+  "review_user_id": "object",
+  "review_timestamp": "int64",
+  "review_verified_purchase": "bool",
+  "review_helpful_vote": "int64",
+  "price_tier": "category"
+ },
+ "missing": {
+  "product_id": 0,
+  "product_title": 0,
+  "product_description": 0,
+  "category": 0,
+  "price": 0,
+  "review_text": 0,
+  "rating": 0,
+  "sentiment_label": 0,
+  "source_category": 0,
+  "review_user_id": 0,
+  "review_timestamp": 0,
+  "review_verified_purchase": 0,
+  "review_helpful_vote": 0,
+  "price_tier": 0
+ },
+ "duplicate_review_text": 116,
+ "duplicate_product_user_pairs": 0,
+ "category_counts": {
+  "Health & Personal Care": 855,
+  "Tools & Home Improvement": 748,
+  "All Beauty": 614,
+  "Amazon Home": 508,
+  "Appliances": 501,
+  "Industrial & Scientific": 102,
+  "Premium Beauty": 23,
+  "Automotive": 13,
+  "Grocery": 9,
+  "AMAZON FASHION": 4,
+  "All Electronics": 2,
+  "Musical Instruments": 1,
+  "Toys & Games": 1,
+  "Baby": 1,
+  "Sports & Outdoors": 1
+ },
+ "category_top5": {
+  "Health & Personal Care": 855,
+  "Tools & Home Improvement": 748,
+  "All Beauty": 614,
+  "Amazon Home": 508,
+  "Appliances": 501
+ },
+ "category_interpretation": "3 source review files (Health & Personal Care, Tools & Home Improvement, All Beauty, Amazon Home, Appliances) contribute ~95% of rows; the remaining labels are small (rare main_category in meta) and should be grouped in the modeling notebook to avoid micro-classes.",
+ "price_quantiles": {
+  "q1": 12.0,
+  "median": 19.99,
+  "q3": 35.99
+ },
+ "price_interpretation": "Prices are strongly right-skewed (median 19.99, IQR 12.00-35.99); quantile-based low/medium/high tiers are therefore a better proxy of 'value class' than fixed bins.",
+ "rating_counts": {
+  "1.0": 383,
+  "2.0": 119,
+  "3.0": 175,
+  "4.0": 304,
+  "5.0": 2402
+ },
+ "sentiment_counts": {
+  "positive": 2706,
+  "negative": 502,
+  "neutral": 175
+ },
+ "sentiment_interpretation": "Amazon ratings skew positive (80% positive / 15% negative / 5% neutral); macro-averaged metrics will be essential to fairly evaluate performance on the small neutral class.",
+ "review_length_mean": 29.629914277268696,
+ "review_length_median": 17.0,
+ "category_sentiment_crosstab": {
+  "negative": {
+   "AMAZON FASHION": 0,
+   "All Beauty": 98,
+   "All Electronics": 0,
+   "Amazon Home": 70,
+   "Appliances": 96,
+   "Automotive": 1,
+   "Baby": 0,
+   "Grocery": 1,
+   "Health & Personal Care": 117,
+   "Industrial & Scientific": 16,
+   "Musical Instruments": 0,
+   "Premium Beauty": 3,
+   "Sports & Outdoors": 0,
+   "Tools & Home Improvement": 100,
+   "Toys & Games": 0
+  },
+  "neutral": {
+   "AMAZON FASHION": 1,
+   "All Beauty": 39,
+   "All Electronics": 0,
+   "Amazon Home": 26,
+   "Appliances": 18,
+   "Automotive": 0,
+   "Baby": 0,
+   "Grocery": 0,
+   "Health & Personal Care": 55,
+   "Industrial & Scientific": 4,
+   "Musical Instruments": 0,
+   "Premium Beauty": 3,
+   "Sports & Outdoors": 0,
+   "Tools & Home Improvement": 29,
+   "Toys & Games": 0
+  },
+  "positive": {
+   "AMAZON FASHION": 3,
+   "All Beauty": 477,
+   "All Electronics": 2,
+   "Amazon Home": 412,
+   "Appliances": 387,
+   "Automotive": 12,
+   "Baby": 1,
+   "Grocery": 8,
+   "Health & Personal Care": 683,
+   "Industrial & Scientific": 82,
+   "Musical Instruments": 1,
+   "Premium Beauty": 17,
+   "Sports & Outdoors": 1,
+   "Tools & Home Improvement": 619,
+   "Toys & Games": 1
+  }
+ },
+ "price_tier_preview": {
+  "low": 1128,
+  "high": 1128,
+  "medium": 1127
+ }
+}

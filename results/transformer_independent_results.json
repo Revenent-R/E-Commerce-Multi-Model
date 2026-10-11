@@ -1,0 +1,158 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "architecture": "three independent DistilBERT encoders, one task-specific head each",
+  "max_length": 128,
+  "batch_size": 8,
+  "epochs_requested": 3,
+  "device": "cuda",
+  "grouped_category_split": true,
+  "split_info": {
+    "n_train": 2414,
+    "n_val": 491,
+    "n_test": 478,
+    "train_products": 1653,
+    "val_products": 354,
+    "test_products": 354,
+    "no_overlap": true,
+    "seed": 20231010,
+    "thresholds": {
+      "t1": 14.253333333333332,
+      "t2": 28.116666666666667,
+      "method": "33rd/67th percentiles of train split",
+      "degenerate": false
+    },
+    "grouped_categories": {
+      "rule": "categories with < 30 TRAIN rows -> 'Other'",
+      "kept": [
+        "All Beauty",
+        "Amazon Home",
+        "Appliances",
+        "Health & Personal Care",
+        "Industrial & Scientific",
+        "Tools & Home Improvement"
+      ],
+      "grouped_into_other": [
+        "AMAZON FASHION",
+        "Automotive",
+        "Grocery",
+        "Premium Beauty",
+        "Sports & Outdoors",
+        "Toys & Games"
+      ]
+    }
+  },
+  "test_metrics": {
+    "category": {
+      "accuracy": 0.5962343096234309,
+      "precision_macro": 0.4242417612382661,
+      "recall_macro": 0.4324357059897129,
+      "f1_macro": 0.42324013980768077
+    },
+    "price_tier": {
+      "accuracy": 0.5146443514644351,
+      "precision_macro": 0.506920049733406,
+      "recall_macro": 0.5157350936929376,
+      "f1_macro": 0.5039149838716804
+    },
+    "sentiment": {
+      "accuracy": 0.9121338912133892,
+      "precision_macro": 0.7448650361536023,
+      "recall_macro": 0.6895920108123691,
+      "f1_macro": 0.7134442041622645
+    }
+  },
+  "train_seconds": {
+    "category": 53.6457839012146,
+    "price_tier": 53.24867129325867,
+    "sentiment": 53.46913981437683
+  },
+  "history": {
+    "category": [
+      {
+        "epoch": 1,
+        "train_loss": 1.3255977756929713,
+        "val_accuracy": 0.6354378818737271,
+        "val_precision_macro": 0.4560100344952505,
+        "val_recall_macro": 0.46974355782004823,
+        "val_f1_macro": 0.4544928127159955,
+        "val_loss": 1.0591514341292843
+      },
+      {
+        "epoch": 2,
+        "train_loss": 0.8947789716404795,
+        "val_accuracy": 0.6619144602851323,
+        "val_precision_macro": 0.47263221429325103,
+        "val_recall_macro": 0.4716323995289125,
+        "val_f1_macro": 0.469571610307534,
+        "val_loss": 0.9756650511295565
+      },
+      {
+        "epoch": 3,
+        "train_loss": 0.6484473188783949,
+        "val_accuracy": 0.659877800407332,
+        "val_precision_macro": 0.5484937363733564,
+        "val_recall_macro": 0.5181439118446992,
+        "val_f1_macro": 0.5241787559292546,
+        "val_loss": 1.0110904420575788
+      }
+    ],
+    "price_tier": [
+      {
+        "epoch": 1,
+        "train_loss": 1.0543250364578323,
+        "val_accuracy": 0.4989816700610998,
+        "val_precision_macro": 0.4874483395072846,
+        "val_recall_macro": 0.48836894534916864,
+        "val_f1_macro": 0.4878486353710831,
+        "val_loss": 1.0232814973400486
+      },
+      {
+        "epoch": 2,
+        "train_loss": 0.8335057904586097,
+        "val_accuracy": 0.4908350305498982,
+        "val_precision_macro": 0.4545751875987362,
+        "val_recall_macro": 0.46237161242999375,
+        "val_f1_macro": 0.4134569628836678,
+        "val_loss": 1.0485076385159646
+      },
+      {
+        "epoch": 3,
+        "train_loss": 0.5504256299394645,
+        "val_accuracy": 0.45213849287169044,
+        "val_precision_macro": 0.5446776967324912,
+        "val_recall_macro": 0.4655337810486318,
+        "val_f1_macro": 0.44784296770288384,
+        "val_loss": 1.4038248562043714
+      }
+    ],
+    "sentiment": [
+      {
+        "epoch": 1,
+        "train_loss": 0.43455796624651016,
+        "val_accuracy": 0.90020366598778,
+        "val_precision_macro": 0.5545405982905983,
+        "val_recall_macro": 0.5831529901491231,
+        "val_f1_macro": 0.5684847259431498,
+        "val_loss": 0.3172206122187837
+      },
+      {
+        "epoch": 2,
+        "train_loss": 0.23140429448805108,
+        "val_accuracy": 0.8981670061099797,
+        "val_precision_macro": 0.6544873714685034,
+        "val_recall_macro": 0.576690457056213,
+        "val_f1_macro": 0.5901345440434405,
+        "val_loss": 0.39005285822936603
+      },
+      {
+        "epoch": 3,
+        "train_loss": 0.14226956379334657,
+        "val_accuracy": 0.9042769857433809,
+        "val_precision_macro": 0.693591030789826,
+        "val_recall_macro": 0.6278791281621757,
+        "val_f1_macro": 0.6515356078574469,
+        "val_loss": 0.3752047791325998
+      }
+    ]
+  }
+}

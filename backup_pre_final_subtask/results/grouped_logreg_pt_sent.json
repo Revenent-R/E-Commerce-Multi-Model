@@ -1,0 +1,16 @@
+{
+ "price_tier__grouped_logreg_test": {
+  "accuracy": 0.4790794979079498,
+  "precision_macro": 0.4707311873225601,
+  "recall_macro": 0.476369371432982,
+  "f1_macro": 0.4723934421359717,
+  "train_seconds": 0.2550966739654541
+ },
+ "sentiment__grouped_logreg_test": {
+  "accuracy": 0.8493723849372385,
+  "precision_macro": 0.5708384646962233,
+  "recall_macro": 0.44574794043659166,
+  "f1_macro": 0.4690545291522144,
+  "train_seconds": 0.12683391571044922
+ }
+}

@@ -1,0 +1,116 @@
+{
+  "model_name": "distilbert-base-uncased",
+  "architecture": "shared DistilBERT encoder + category/price_tier/sentiment heads",
+  "max_length": 128,
+  "batch_size": 8,
+  "epochs_requested": 3,
+  "best_validation_mean_macro_f1": 0.485582245562395,
+  "train_seconds": 53.636550188064575,
+  "device": "cuda",
+  "grouped_category_split": true,
+  "split_info": {
+    "n_train": 2414,
+    "n_val": 491,
+    "n_test": 478,
+    "train_products": 1653,
+    "val_products": 354,
+    "test_products": 354,
+    "no_overlap": true,
+    "seed": 20231010,
+    "thresholds": {
+      "t1": 14.253333333333332,
+      "t2": 28.116666666666667,
+      "method": "33rd/67th percentiles of train split",
+      "degenerate": false
+    },
+    "grouped_categories": {
+      "rule": "categories with < 30 TRAIN rows -> 'Other'",
+      "kept": [
+        "All Beauty",
+        "Amazon Home",
+        "Appliances",
+        "Health & Personal Care",
+        "Industrial & Scientific",
+        "Tools & Home Improvement"
+      ],
+      "grouped_into_other": [
+        "AMAZON FASHION",
+        "Automotive",
+        "Grocery",
+        "Premium Beauty",
+        "Sports & Outdoors",
+        "Toys & Games"
+      ]
+    }
+  },
+  "label_maps": {
+    "category": {
+      "All Beauty": 0,
+      "Amazon Home": 1,
+      "Appliances": 2,
+      "Health & Personal Care": 3,
+      "Industrial & Scientific": 4,
+      "Other": 5,
+      "Tools & Home Improvement": 6
+    },
+    "price_tier": {
+      "high": 0,
+      "low": 1,
+      "medium": 2
+    },
+    "sentiment": {
+      "negative": 0,
+      "neutral": 1,
+      "positive": 2
+    }
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 2.957740065277807,
+      "val_loss": 2.506639107581108,
+      "val_mean_macro_f1": 0.46505916215513016,
+      "val_category_macro_f1": 0.42942053649913386,
+      "val_price_tier_macro_f1": 0.40712534613935114,
+      "val_sentiment_macro_f1": 0.5586316038269055
+    },
+    {
+      "epoch": 2,
+      "train_loss": 2.1694270877648663,
+      "val_loss": 2.4415604722115303,
+      "val_mean_macro_f1": 0.485582245562395,
+      "val_category_macro_f1": 0.4453412874762767,
+      "val_price_tier_macro_f1": 0.46432425932050325,
+      "val_sentiment_macro_f1": 0.5470811898904048
+    },
+    {
+      "epoch": 3,
+      "train_loss": 1.6987348992303508,
+      "val_loss": 2.518336369145301,
+      "val_mean_macro_f1": 0.48443645299731514,
+      "val_category_macro_f1": 0.4381353793453787,
+      "val_price_tier_macro_f1": 0.45319746801516253,
+      "val_sentiment_macro_f1": 0.561976511631404
+    }
+  ],
+  "test_metrics": {
+    "category": {
+      "accuracy": 0.5878661087866108,
+      "precision_macro": 0.4151943449547385,
+      "recall_macro": 0.43466054926742703,
+      "f1_macro": 0.4236281333146698
+    },
+    "price_tier": {
+      "accuracy": 0.4560669456066946,
+      "precision_macro": 0.44503267973856203,
+      "recall_macro": 0.4598941129325647,
+      "f1_macro": 0.42848908232144006
+    },
+    "sentiment": {
+      "accuracy": 0.8870292887029289,
+      "precision_macro": 0.532948532948533,
+      "recall_macro": 0.6055533698153248,
+      "f1_macro": 0.5634365227312085
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+ "per_category": {
+  "All_Beauty": {
+   "meta_file_bytes": 212990142,
+   "unique_needed": 2208,
+   "matched_needed": 530
+  },
+  "Health_and_Personal_Care": {
+   "meta_file_bytes": 118005874,
+   "unique_needed": 1856,
+   "matched_needed": 529
+  },
+  "Appliances": {
+   "meta_file_bytes": 285298475,
+   "unique_needed": 1833,
+   "matched_needed": 1365
+  }
+ },
+ "joined": 3549,
+ "unmatched": 13951
+}

@@ -1,0 +1,94 @@
+{
+ "generated_at": "2026-10-10T17:26:24.569512+00:00",
+ "seed": 20231010,
+ "source_repo": "McAuley-Lab/Amazon-Reviews-2023",
+ "sampled_source_records": 17500,
+ "records_in_scope_after_category_filter": 3383,
+ "duplicates_removed": 0,
+ "final_usable_records": 3383,
+ "distinct_products": 2361,
+ "distinct_categories": 15,
+ "exclusions": {
+  "missing_price": 4113,
+  "missing_review_text": 4,
+  "category_not_in_approved_set": 10000,
+  "duplicate_review_records_removed": 0
+ },
+ "missing_values_per_column": {
+  "product_id": 0,
+  "product_title": 0,
+  "product_description": 0,
+  "category": 0,
+  "price": 0,
+  "review_text": 0,
+  "rating": 0,
+  "sentiment_label": 0,
+  "source_category": 0,
+  "review_user_id": 0,
+  "review_timestamp": 0,
+  "review_verified_purchase": 0,
+  "review_helpful_vote": 0
+ },
+ "distinct_source_categories": [
+  "All_Beauty",
+  "Appliances",
+  "Health_and_Personal_Care"
+ ],
+ "price_summary": {
+  "count": 3383.0,
+  "mean": 47.057250960685785,
+  "std": 157.65400777789029,
+  "min": 1.2,
+  "25%": 12.0,
+  "50%": 19.99,
+  "75%": 35.99,
+  "max": 6399.0,
+  "fifty_percent": 19.99
+ },
+ "rating_distribution": {
+  "1.0": 383,
+  "2.0": 119,
+  "3.0": 175,
+  "4.0": 304,
+  "5.0": 2402
+ },
+ "sentiment_distribution": {
+  "positive": 2706,
+  "negative": 502,
+  "neutral": 175
+ },
+ "category_distribution": {
+  "Health & Personal Care": 855,
+  "Tools & Home Improvement": 748,
+  "All Beauty": 614,
+  "Amazon Home": 508,
+  "Appliances": 501,
+  "Industrial & Scientific": 102,
+  "Premium Beauty": 23,
+  "Automotive": 13,
+  "Grocery": 9,
+  "AMAZON FASHION": 4,
+  "All Electronics": 2,
+  "Musical Instruments": 1,
+  "Toys & Games": 1,
+  "Baby": 1,
+  "Sports & Outdoors": 1
+ },
+ "reviews_per_product_distribution": {
+  "mean": 1.432867429055485,
+  "max": 46
+ },
+ "storage_budget_note": "lifetime downloads 5.1151 GB per results/storage_budget.json; hard 5 GB ceiling respected because alternate attempts were restarted, not accumulated on disk",
+ "leakage": {
+  "rating_is_feature": false,
+  "price_is_feature_for_price_tier": false,
+  "category_is_feature_for_category_prediction": false,
+  "note": "derived label columns (sentiment_label) will be removed before model fitting; price thresholds must be fit on train split only"
+ },
+ "storage": {
+  "lifetime_downloaded_bytes": 5115124809,
+  "on_disk_dataset_related_bytes": 142390609,
+  "hard_ceiling_bytes": 5368709120,
+  "note": "lifetime downloads include discarded failed attempts; on-disk excludes none of the project"
+ }
+}

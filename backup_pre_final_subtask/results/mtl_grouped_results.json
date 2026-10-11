@@ -1,0 +1,163 @@
+{
+ "test_metrics": {
+  "category": {
+   "accuracy": 0.48326359832635984,
+   "precision_macro": 0.33742085088628626,
+   "recall_macro": 0.3528764761471927,
+   "f1_macro": 0.34401911706345834
+  },
+  "price_tier": {
+   "accuracy": 0.4456066945606695,
+   "precision_macro": 0.44346077023093305,
+   "recall_macro": 0.4433819252070075,
+   "f1_macro": 0.4433983525954069
+  },
+  "sentiment": {
+   "accuracy": 0.8556485355648535,
+   "precision_macro": 0.6314009661835749,
+   "recall_macro": 0.5281613661562873,
+   "f1_macro": 0.56291358386443
+  }
+ },
+ "confusions": {
+  "category": [
+   [
+    47,
+    6,
+    1,
+    27,
+    0,
+    0,
+    3
+   ],
+   [
+    3,
+    29,
+    16,
+    11,
+    2,
+    0,
+    14
+   ],
+   [
+    6,
+    6,
+    25,
+    7,
+    1,
+    0,
+    24
+   ],
+   [
+    25,
+    10,
+    4,
+    56,
+    0,
+    0,
+    5
+   ],
+   [
+    0,
+    2,
+    0,
+    3,
+    0,
+    0,
+    5
+   ],
+   [
+    8,
+    3,
+    2,
+    2,
+    0,
+    0,
+    2
+   ],
+   [
+    1,
+    8,
+    27,
+    13,
+    0,
+    0,
+    74
+   ]
+  ],
+  "price_tier": [
+   [
+    91,
+    31,
+    47
+   ],
+   [
+    27,
+    58,
+    57
+   ],
+   [
+    53,
+    50,
+    64
+   ]
+  ],
+  "sentiment": [
+   [
+    35,
+    5,
+    33
+   ],
+   [
+    3,
+    3,
+    16
+   ],
+   [
+    8,
+    4,
+    371
+   ]
+  ]
+ },
+ "labels": {
+  "category": [
+   "All Beauty",
+   "Amazon Home",
+   "Appliances",
+   "Health & Personal Care",
+   "Industrial & Scientific",
+   "Other",
+   "Tools & Home Improvement"
+  ],
+  "price_tier": [
+   "high",
+   "low",
+   "medium"
+  ],
+  "sentiment": [
+   "negative",
+   "neutral",
+   "positive"
+  ]
+ },
+ "grouping_rule": {
+  "rule": "categories with < 30 TRAIN rows -> 'Other'",
+  "kept": [
+   "All Beauty",
+   "Amazon Home",
+   "Appliances",
+   "Health & Personal Care",
+   "Industrial & Scientific",
+   "Tools & Home Improvement"
+  ],
+  "grouped_into_other": [
+   "AMAZON FASHION",
+   "Automotive",
+   "Grocery",
+   "Premium Beauty",
+   "Sports & Outdoors",
+   "Toys & Games"
+  ]
+ }
+}

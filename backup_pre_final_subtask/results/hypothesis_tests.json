@@ -1,0 +1,30 @@
+{
+ "H1_category_vs_sentiment": {
+  "test": "H1: sentiment independent of product category",
+  "status": "ok",
+  "table_shape": [
+   7,
+   3
+  ],
+  "min_expected_cell": 2.8451078924031923,
+  "chi2": 22.011846859815936,
+  "dof": 12,
+  "p_value": 0.03738725345274809,
+  "cramers_v": 0.057037731520451475,
+  "n": 3383
+ },
+ "H2_price_tier_vs_sentiment": {
+  "test": "H2: sentiment independent of price tier",
+  "status": "ok",
+  "table_shape": [
+   3,
+   3
+  ],
+  "min_expected_cell": 57.05734555128584,
+  "chi2": 8.582878429960072,
+  "dof": 4,
+  "p_value": 0.07241448411304957,
+  "cramers_v": 0.03561643802648385,
+  "n": 3383
+ }
+}

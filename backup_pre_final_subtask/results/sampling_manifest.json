@@ -1,0 +1,52 @@
+{
+ "dataset_source": "McAuley-Lab/Amazon-Reviews-2023",
+ "base_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main",
+ "seed": 20231010,
+ "retrieval_method": "HTTP Range (partial) streaming; no full-file downloads",
+ "sample_method": "stratified random-offset probes + reservoir sampling",
+ "approved_categories": [
+  "All_Beauty",
+  "Appliances",
+  "Health_and_Personal_Care"
+ ],
+ "categories_in_source_sample_but_dropped": [
+  "Musical_Instruments",
+  "Digital_Music",
+  "Video_Games",
+  "Toys_and_Games"
+ ],
+ "sampled_source_records": 17500,
+ "usable_records_after_join_and_cleaning": 3383,
+ "join_key": "parent_asin",
+ "targets": {
+  "category": "source main_category from meta file",
+  "price_tier": "low/medium/high quantiles (33/67th percentiles fit on training split only)",
+  "sentiment": "rating-derived: 1-2 neg, 3 neutral, 4-5 pos"
+ },
+ "exclusions": {
+  "missing_price": 4113,
+  "missing_review_text": 4,
+  "category_not_in_approved_set": 10000,
+  "duplicate_review_records_removed": 0
+ },
+ "outputs": {
+  "parquet": "data\\processed\\ecommerce_sample.parquet",
+  "csv": "data\\processed\\ecommerce_sample.csv",
+  "audit": "results/dataset_audit.json",
+  "markdown": "results/dataset_audit.md"
+ },
+ "files_size_bytes": {
+  "parquet": 922416,
+  "csv": 1805501,
+  "pilot_sample_jsonl": 413850,
+  "full_sample_jsonl": 9940298,
+  "pilot_joined_jsonl": 1035500,
+  "full_joined_jsonl": 16992458,
+  "ALL_meta_cache_jsonl": 111111926
+ },
+ "storage_budget": {
+  "lifetime_downloaded_bytes": 5115124809,
+  "on_disk_dataset_related_bytes": 142390609,
+  "budget_note": "5 GB hard ceiling respected; 4.5 GiB download budget consumed by failed earlier strategies, user approved continuing under 5 GB"
+ }
+}

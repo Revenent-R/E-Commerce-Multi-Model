@@ -1,0 +1,3674 @@
+{
+ "lifetime_downloaded_bytes": 5115124809,
+ "persistent_bytes": 39251780,
+ "events": [
+  {
+   "note": "seed: honest lifetime total = 494,592,000 B measured via old tracker (.freebuff/dataset_budget.json, deleted) plus 1,510,127,259 B discarded full-scan attempt (also old tracker, deleted); combined into seed",
+   "d_download": 0,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@208000000",
+   "d_download": 4990142,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@208000000",
+   "d_download": 4990142,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@208000000",
+   "d_download": 4990142,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@208000000",
+   "d_download": 4990142,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@208000000",
+   "d_download": 4990142,
+   "d_persistent": 0
+  },
+  {
+   "note": "alloc meta_All_Beauty.parquet",
+   "d_download": 0,
+   "d_persistent": 63343
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@112000000",
+   "d_download": 6005874,
+   "d_persistent": 0
+  },
+  {
+   "note": "alloc meta_Health_and_Personal_Care.parquet",
+   "d_download": 0,
+   "d_persistent": 88814
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@208000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@216000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@224000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@232000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@240000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@248000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@256000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@264000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@272000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@280000000",
+   "d_download": 5298475,
+   "d_persistent": 0
+  },
+  {
+   "note": "alloc meta_Appliances.parquet",
+   "d_download": 0,
+   "d_persistent": 155569
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@208000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@216000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@224000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@232000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@240000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@248000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@256000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@264000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@272000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@280000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@288000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@296000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@304000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@312000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@320000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@328000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@336000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@344000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@352000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@360000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@368000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@376000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@384000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@392000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@400000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@408000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@416000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@424000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@432000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@440000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@448000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@456000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@464000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@472000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@480000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@488000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@496000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@504000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@512000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@520000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@528000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@536000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@544000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@552000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@560000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@568000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@576000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@584000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@592000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@600000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_All_Beauty.jsonl@208000000",
+   "d_download": 4990142,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Health_and_Personal_Care.jsonl@112000000",
+   "d_download": 6005874,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@128000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@136000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@144000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@152000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@160000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@168000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@176000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@184000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@192000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@200000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@208000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@216000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@224000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@232000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@240000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@248000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@256000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@264000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@272000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Appliances.jsonl@280000000",
+   "d_download": 5298475,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@0",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@8000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@16000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@24000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@32000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@40000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@48000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@56000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@64000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@72000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@80000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@88000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@96000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@104000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@112000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download meta-scan meta_Musical_Instruments.jsonl@120000000",
+   "d_download": 8000000,
+   "d_persistent": 0
+  },
+  {
+   "note": "alloc pilot_joined.jsonl",
+   "d_download": 0,
+   "d_persistent": 1035500
+  },
+  {
+   "note": "alloc pilot_joined.jsonl",
+   "d_download": 0,
+   "d_persistent": 1035500
+  },
+  {
+   "note": "download range All_Beauty.jsonl@117835968",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@117835968",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@117835968",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@117835968",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@84870457",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@76079986",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@79471896",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@282018641",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@152746600",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@206289330",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@317761063",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@66568575",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@21468746",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@20870888",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@203617022",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@6735386",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@122028570",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@82124618",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@49115830",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@6571024",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@166653608",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@127476748",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@307825255",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@262026189",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@148388662",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@132171288",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@72662471",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@216335190",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@182933238",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@129271897",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@121624462",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@173363595",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@74396588",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@218994492",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@136033116",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@80010182",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@34116645",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@46723238",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@70921962",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@59389593",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@118877722",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@34154825",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@137681844",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@4853564",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@204566904",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@38550883",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@224110324",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@202295662",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@199578073",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@111846072",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@159066904",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@119772312",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@207301652",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@52353704",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@222753078",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@119437534",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@25953099",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@385166083",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@829225512",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@859840678",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@91592605",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@794943519",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@166339518",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@277785630",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@236396124",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@844057004",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@521406234",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@131507534",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@526275506",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@337973735",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@289709287",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@341196328",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@37035597",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@925227485",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@288011546",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@50975193",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@879865218",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@292033020",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@677895406",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@373399058",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@867233183",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1454290418",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1181503001",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@373247489",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@695471698",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@506089090",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@842025269",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1075411893",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1436650097",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@520448534",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1383475141",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1313758326",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1209598807",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1177949786",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1450996088",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@509286605",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@183119787",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1186851904",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@505879267",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@474220507",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@286115783",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@835804931",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1043925925",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@853626416",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@738575822",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@713294390",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@567227758",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@73643616",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@68901123",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@2505618",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@32979595",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@57744608",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@26791284",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@4321973",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@62665380",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@15814628",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@21043864",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@17229626",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@16004233",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@66681264",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@59116557",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@5066365",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@1756412",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@73862422",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@39824003",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@31134207",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@34663086",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@52929081",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@54662157",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@72068051",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@46875415",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@28841378",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@55580133",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@12005887",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@1530914236",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2317142574",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2031975558",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2038484462",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2476576333",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@1975550130",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2442317961",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@254335322",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@151161700",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@474122807",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2359291630",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2287203283",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@1658087445",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@1829581866",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@530911437",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@915615000",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@816720455",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@558593508",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@704858754",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@860760724",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@133558981",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@376894100",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@116554233",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@521222081",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2218580150",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1570546894",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@432619322",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@5989348651",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@4380683306",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@3264499009",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@3109960171",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1981108609",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@6180072641",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@5071262052",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@2660888877",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1101122298",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1045401666",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@6986432170",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@6874034502",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@5753228611",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@4989195485",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@6350877317",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@5050819902",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@4872322930",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@4075725026",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@3521002187",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1578648633",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@7115330769",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@3312336536",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1507679743",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1630622719",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "alloc full_sample.jsonl",
+   "d_download": 0,
+   "d_persistent": 9940298
+  },
+  {
+   "note": "download range All_Beauty.jsonl@117835968",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@84870457",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@76079986",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@79471896",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@282018641",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@152746600",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@206289330",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@317761063",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@66568575",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@21468746",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@20870888",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@203617022",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@6735386",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@122028570",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@82124618",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@49115830",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@6571024",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@166653608",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@127476748",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@307825255",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@262026189",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@148388662",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@132171288",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@72662471",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@216335190",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range All_Beauty.jsonl@182933238",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@129271897",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@121624462",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@173363595",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@74396588",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@218994492",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@136033116",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@80010182",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@34116645",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@46723238",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@70921962",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@59389593",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@118877722",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@34154825",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@137681844",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@4853564",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@204566904",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@38550883",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@224110324",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@202295662",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@199578073",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@111846072",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@159066904",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@119772312",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@207301652",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@52353704",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Health_and_Personal_Care.jsonl@222753078",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@119437534",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@25953099",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@385166083",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@829225512",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@859840678",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@91592605",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@794943519",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@166339518",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@277785630",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@236396124",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@844057004",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@521406234",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@131507534",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@526275506",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@337973735",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@289709287",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@341196328",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@37035597",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@925227485",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@288011546",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@50975193",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@879865218",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@292033020",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@677895406",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@373399058",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Appliances.jsonl@867233183",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1454290418",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1181503001",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@373247489",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@695471698",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@506089090",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@842025269",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1075411893",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1436650097",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@520448534",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1383475141",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1313758326",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1209598807",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1177949786",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1450996088",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@509286605",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@183119787",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1186851904",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@505879267",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@474220507",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@286115783",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@835804931",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@1043925925",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@853626416",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@738575822",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@713294390",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Musical_Instruments.jsonl@567227758",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@73643616",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@68901123",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@2505618",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@32979595",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@57744608",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@26791284",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@4321973",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@62665380",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@15814628",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@21043864",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@17229626",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@16004233",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@66681264",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@59116557",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@5066365",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@1756412",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@73862422",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@39824003",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@31134207",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@34663086",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@52929081",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@54662157",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@72068051",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@46875415",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@28841378",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Digital_Music.jsonl@55580133",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@12005887",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@1530914236",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2317142574",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2031975558",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2038484462",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2476576333",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@1975550130",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2442317961",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@254335322",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@151161700",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@474122807",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2359291630",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2287203283",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@1658087445",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@1829581866",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@530911437",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@915615000",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@816720455",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@558593508",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@704858754",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@860760724",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@133558981",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@376894100",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@116554233",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@521222081",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Video_Games.jsonl@2218580150",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1570546894",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@432619322",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@5989348651",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@4380683306",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@3264499009",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@3109960171",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1981108609",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@6180072641",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@5071262052",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@2660888877",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1101122298",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1045401666",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@6986432170",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@6874034502",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@5753228611",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@4989195485",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@6350877317",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@5050819902",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@4872322930",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@4075725026",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@3521002187",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1578648633",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@7115330769",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@3312336536",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1507679743",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "download range Toys_and_Games.jsonl@1630622719",
+   "d_download": 768000,
+   "d_persistent": 0
+  },
+  {
+   "note": "alloc full_sample.jsonl",
+   "d_download": 0,
+   "d_persistent": 9940298
+  },
+  {
+   "note": "alloc full_joined.jsonl",
+   "d_download": 0,
+   "d_persistent": 16992458
+  }
+ ],
+ "hard_ceiling": 5368709120,
+ "budget_overrun_approved": true,
+ "budget_note": "User approved (2026-10-10): after the 4.5 GB download budget was consumed by discarded failed attempts, further downloads proceed under the hard 5 GB ceiling with strict accounting; new bytes are minimized."
+}

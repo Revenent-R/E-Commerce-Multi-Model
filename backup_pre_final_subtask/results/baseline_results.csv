@@ -1,0 +1,10 @@
+task,model,accuracy,precision_macro,recall_macro,f1_macro,train_seconds,n_train,n_test
+category,decision_tree_test,0.41,0.1357,0.137,0.1334,0.16,2414,478
+category,logreg_test,0.5732,0.2007,0.1921,0.1895,1.04,2905,478
+category,logreg_val,0.6212,0.2105,0.2039,0.2035,0.47,2414,491
+price_tier,decision_tree_test,0.3996,0.3981,0.3964,0.3941,0.15,2414,478
+price_tier,logreg_test,0.4791,0.4707,0.4764,0.4724,0.27,2905,478
+price_tier,logreg_val,0.4969,0.4948,0.4906,0.4911,0.14,2414,491
+sentiment,decision_tree_test,0.7448,0.3917,0.4059,0.3987,0.14,2414,478
+sentiment,logreg_test,0.8494,0.5708,0.4457,0.4691,0.18,2905,478
+sentiment,logreg_val,0.8554,0.5588,0.4567,0.4795,0.1,2414,491
